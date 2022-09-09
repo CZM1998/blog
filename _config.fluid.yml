@@ -1002,23 +1002,65 @@ links:
   # 友链的成员项
   # Member item of page
   items:
+    # - {
+    #   title: "Fluid Blog",
+    #   intro: "主题博客",
+    #   link: "https://hexo.fluid-dev.com/",
+    #   avatar: "/img/favicon.png"
+    # }
+    # - {
+    #   title: "Fluid Docs",
+    #   intro: "主题使用指南",
+    #   link: "https://hexo.fluid-dev.com/docs/",
+    #   avatar: "/img/favicon.png"
+    # }
+    # - {
+    #   title: "Fluid Repo",
+    #   intro: "主题 GitHub 仓库",
+    #   link: "https://github.com/fluid-dev/hexo-theme-fluid",
+    #   avatar: "/img/favicon.png"
+    # }
+    # - {
+    #   title: "",
+    #   intro: "",
+    #   link: "",
+    #   avatar: ""
+    # }
     - {
-      title: "Fluid Blog",
-      intro: "主题博客",
-      link: "https://hexo.fluid-dev.com/",
-      avatar: "/img/favicon.png"
+      title: "Luminous’ Home",
+      intro: "Luminous’ Home",
+      link: "https://luotianyi.vc",
+      avatar: "https://static.lty.fun/weblogo/my.jpg"
     }
     - {
-      title: "Fluid Docs",
-      intro: "主题使用指南",
-      link: "https://hexo.fluid-dev.com/docs/",
-      avatar: "/img/favicon.png"
+      title: "洛水.山岭居室",
+      intro: "洛水.山岭居室",
+      link: "https://luoshuijs.vip",
+      avatar: "https://luoshuijs-vip.cdn.luoshuijs.top/wp-content/uploads/2019/05/20190526220926.jpg"
     }
     - {
-      title: "Fluid Repo",
-      intro: "主题 GitHub 仓库",
-      link: "https://github.com/fluid-dev/hexo-theme-fluid",
-      avatar: "/img/favicon.png"
+      title: "VCitrus",
+      intro: "VCitrus",
+      link: "https://vcitrus.com/",
+      avatar: "https://cdn.jsdelivr.net/gh/CZM1998/blog_img@master/img/favicon.ico"
+    }
+    - {
+      title: "柠音工作室",
+      intro: "柠音工作室",
+      link: "https://luotianyi.moe",
+      avatar: "https://cdn.jsdelivr.net/gh/CZM1998/blog_img@master/img/favicon.ico"
+    }
+    - {
+      title: "iMIKU.MOE",
+      intro: "iMIKU.MOE",
+      link: "https://blog.imiku.moe",
+      avatar: "https://blog.imiku.moe/usr/uploads/site-icon.png"
+    }
+    - {
+      title: "菲谢尔·冯·露弗施洛斯·那菲多特",
+      intro: "吾乃菲谢尔，断罪之皇女，漆黑烬灭的统御者，遥望蒙德，吾之领地的小小花园，真是令人心情愉快，哼，来了吗?吾之宿敌，邪龙塔斯拉克哟，吾之封印，解放，千年的争斗就在今天画上休止符吧，大幻梦森罗万象狂气断罪眼，让这黑暗的圣洁火焰将汝化为灰烬，正是如此，就这样，罪孽深重的邪龙被我完美镇压。",
+      link: "https://fischl.cn/",
+      avatar: "https://fischl.luomoe.com/fischl.jpg"
     }
 
   # 当成员头像加载失败时，替换为指定图片
