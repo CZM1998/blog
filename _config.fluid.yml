@@ -1062,6 +1062,12 @@ links:
       link: "https://fischl.cn/",
       avatar: "https://fischl.luomoe.com/fischl.jpg"
     }
+    - {
+      title: "psh",
+      intro: "shamd.cloud",
+      link: "https://shamd.cloud/",
+      avatar: "https://shamd.cloud/upload/2022/07/afbb577733f46c9535dd1d6d6388278.jpg"
+    }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
